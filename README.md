@@ -1,2 +1,4 @@
 # Discord-Bot
-A small project. Will be based off of js. Look forward to daily updates.
+This is a small project. It's a learn-on-the-way type of thing.
+JS will be the language
+Expect daily updates
